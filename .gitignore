@@ -1,0 +1,15 @@
+node_modules
+.next
+out
+dist
+*.rar
+.env
+.env.*
+!.env.example
+tsconfig.tsbuildinfo
+*.log
+.DS_Store
+Thumbs.db
+
+# Leftover local API copy. The API is its own repository.
+/backend
